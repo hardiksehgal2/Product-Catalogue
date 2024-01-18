@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0JhwLvm_uLDLc-la7hK9WyVpe9naJFcebKfhcICiq2KtvXDePNAU_9QO06LPcQ0K0fLByc7m&usqp=CAc"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "data:image/jpeg;base64,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"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        }
+    ]
+}
